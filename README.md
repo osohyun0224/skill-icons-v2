@@ -283,7 +283,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `openshift`     |      <img src="./assets/openshift.svg" width="48">       |
 |     `openstack`     |    <img src="./assets/openstack-dark.svg" width="48">    |
 |       `opera`       |       <img src="./assets/opera-dark.svg" width="48">     |
-|       `outlook`     |       <img src="./assets/outlook-dark.svg" width="48">     |
+|       `outlook`     |       <img src="./assets/outlook-dark.svg" width="48">   |
 |        `p5js`       |         <img src="./assets/p5js.svg" width="48">         |
 |       `pandas`      |      <img src="./assets/pandas-dark.svg" width="48">     |
 |        `pbi`        |        <img src="./assets/pbi-dark.svg" width="48">      |
@@ -313,7 +313,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `processing`    |   <img src="./assets/processing-dark.svg" width="48">    |
 |     `prometheus`    |      <img src="./assets/prometheus.svg" width="48">      |
 |        `pug`        |       <img src="./assets/pug-dark.svg" width="48">       |
-|      `pupeteer`     |     <img src="./assets/pupeteer-dark.svg" width="48">    |
+|      `puppeteer`    |     <img src="./assets/puppeteer-dark.svg" width="48">   |
 |      `pycharm`      |     <img src="./assets/pycharm-dark.svg" width="48">     |
 |         `py`        |     <img src="./assets/python-dark.svg" width="48">      |
 |      `pytorch`      |     <img src="./assets/pytorch-dark.svg" width="48">     |
@@ -324,8 +324,8 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `raspberrypi`    |   <img src="./assets/raspberrypi-dark.svg" width="48">   |
 |       `react`       |      <img src="./assets/react-dark.svg" width="48">      |
 |     `reactivex`     |    <img src="./assets/reactivex-dark.svg" width="48">    |
-|    `reactquery`     |  <img src="./icons/ReactQuery-Dark.svg" width="48">   |
-|      `recoil`       |       <img src="./icons/Recoil.svg" width="48">       |
+|    `reactquery`     |  <img src="./icons/reactquery-Dark.svg" width="48">      |
+|      `recoil`       |       <img src="./icons/recoil.svg" width="48">          |
 |       `redhat`      |     <img src="./assets/redhat-dark.svg" width="48">      |
 |       `redis`       |      <img src="./assets/redis-dark.svg" width="48">      |
 |       `redux`       |        <img src="./assets/redux.svg" width="48">         |
@@ -346,7 +346,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `sqlserver`    |      <img src="./assets/sqlserver-dark.svg" width="48">  |
 |   `stackoverflow`   |  <img src="./assets/stackoverflow-dark.svg" width="48">  |
 |       `stock`       |         <img src="./assets/stock.svg" width="48">        |
-|     `storybook`     |    <img src="./icons/StoryBook-Dark.svg" width="48">  |
+|     `storybook`     |    <img src="./icons/storybook-dark.svg" width="48">     |
 |  `styledcomponents` |   <img src="./assets/styledcomponents.svg" width="48">   |
 |      `sublime`      |     <img src="./assets/sublime-dark.svg" width="48">     |
 |      `supabase`     |    <img src="./assets/supabase-dark.svg" width="48">     |
@@ -374,7 +374,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `teams`       |      <img src="./assets/teams-dark.svg" width="48">      |
 |     `tensorflow`    |   <img src="./assets/tensorflow-dark.svg" width="48">    |
 |     `terraform`     |    <img src="./assets/terraform-dark.svg" width="48">    |
-|   `testinglibrary`  | <img src="./icons/TestingLibrary-Dark.svg" width="48">|
+|   `testinglibrary`  | <img src="./icons/testinglibrary-dark.svg" width="48">   |
 |      `threejs`      |     <img src="./assets/threejs-dark.svg" width="48">     |
 |        `tor`        |       <img src="./assets/tor-dark.svg" width="48">       |
 |      `twitter`      |       <img src="./assets/twitter.svg" width="48">        |
